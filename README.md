@@ -1,4 +1,6 @@
-sysmsg.com
+isiah.pw
 ==========
 
-Site for https://sysmsg.com
+Site originally for https://sysmsg.com, transformed for https://isiah.pw
+
+Coded by Jordan, edited by Isiah.
