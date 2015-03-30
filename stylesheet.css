@@ -5,7 +5,8 @@ body {
     font-family: "Source Sans Pro", 'Cabin', sans-serif;
     font-size: 18px;
     padding: 10px 25% 10px 25%;
-    color: #313131;
+    color:white;
+    background-image:url('images/background.png');
 }
  
 h1 {
